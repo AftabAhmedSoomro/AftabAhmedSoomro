@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning *JAVASCRIPT | DART |*
 
-- 👨‍💻 All of my task are available at [https://www.linkedin.com/in/zeeshan-haider-b12338288?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BCwIhVevlSMaGZHumQOrQvA%3D%3D](https://www.linkedin.com/in/zeeshan-haider-b12338288?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BCwIhVevlSMaGZHumQOrQvA%3D%3D)
+- 👨‍💻 All of my task are available at https://www.linkedin.com/in/aftab-ahmed-12b9aa265/
 
 - 💬 Ask me about *HTML5 | CSS3 | BOOTSTRAP | TAILWINDCSS | JAVASCRIPT | DART*
 
