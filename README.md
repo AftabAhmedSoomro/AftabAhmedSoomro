@@ -37,9 +37,9 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aftabahmedsoomro&show_icons=true&locale=en" alt="aftabahmedsoomro" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aftabahmedsoomro&" alt="aftabahmedsoomro" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aftabahmedsoomro&" alt="aftabahmedsoomro" /></p> <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aftabahmedsoomro&show_icons=true&locale=en&layout=compact" alt="aftabahmedsoomro" /></p>
 
-
+<br>
 
 <hr>
 <h3 align="center" >Thanks For Your Support! ❤</h3>
